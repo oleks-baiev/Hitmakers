@@ -6,3 +6,4 @@ https://sites.google.com/site/undefinition/bookshelf-speakers/hitmakers?authuser
 ![plot](https://github.com/oleks-baiev/Hitmakers/blob/main/Solidworks/face.JPG)
 ![plot](https://github.com/oleks-baiev/Hitmakers/blob/main/Solidworks/left_right.JPG)
 ![plot](https://github.com/oleks-baiev/Hitmakers/blob/main/Solidworks/top_bottom.JPG)
+![plot](https://github.com/oleks-baiev/Hitmakers/blob/main/Autocad/hitmakers-filter.jpg)
